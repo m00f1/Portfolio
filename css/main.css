@@ -1,0 +1,50 @@
+div.wrapper {
+	width: 1140px;
+	min-height: 600px;
+	margin: 0 auto;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+}
+
+header.main-header {
+	border: solid;
+	background-color: #ececec;
+	height: 770px;
+	margin: 0 auto;
+}
+
+nav {
+	border: solid;
+	margin: 5px;
+
+
+	display: flex;
+	align-items: center;
+}
+
+figure.mylogo {
+	border: solid;
+	margin-left: 10px;
+}
+
+figure.mylogo img {
+	width: 100px;
+	height: 70px;
+}
+
+ul.main-nav {
+	width: 555px;
+	height: 23px;
+	margin-left: 350px;
+	border: solid;
+
+
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+div.start {
+	border: solid;
+	margin: 5px;
+}
